@@ -1,0 +1,22 @@
+1. git commit -m "my message"
+2. create a folder and use git init.
+3. By using command git push --delete remoteBranchName
+4. rebase is another option
+ 	git rebase branch-B
+5.  using the git add command to add the file in staging area.
+6. using the "git add -A" command to add the unstagged file in staging area.
+7.using the "git add file" command to add the particular file.
+8. git log
+9. git branch "branchname"
+   git branch 
+10.git checkout
+   git checkout "branchname"
+
+11. git config --global username ["xyr" "dafd"]
+12. git config username ["xyr" "dafd"]
+13. git merge [branch]
+14. git remote add "url"
+15. git remote -v
+16. git fetch orgin
+17.git pull
+  
