@@ -1,0 +1,19 @@
+1.Object are declared same as variable
+	var person = "mayank dixit"
+2.Array is declared as
+	var arr = ["mayank", "dixit"]
+3.We can use create cookie as:
+	documents.cookie = "username = mayank dixit";
+	we can add expiry date to it by adding expires attribute at the end
+	documents.cooke = "username = mayank dixit; exprires = Tue, 22 Nov 2020 12:00 IST";
+5. LocalStorage and SessionStorage properties allow us to save the key/value in web browser.
+    Difference in that the data is lost when browser in closed in SessionStorage and data does not lost in LocalStorage property.
+7.Is the call Methods the arguments are passed saparately and in the apply method the arguments are passed as an array.
+8. Just by reclaring the array.
+	var Arr = [1,3,4,5,6];
+	Arr = []
+
+13.A function without the name is anonymous function.
+14. The method is charAt(index).
+
+ 
